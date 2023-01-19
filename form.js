@@ -1,12 +1,12 @@
 //company data
 var firebaseConfig = {
-apiKey: "AIzaSyCvDRJDEeMMItKSly4DK7YMWvofQyG_r44",
-authDomain: "advocacy-app-dev.firebaseapp.com",
-databaseURL: "https://advocacy-app-dev.firebaseio.com",
-projectId: "advocacy-app-dev",
-storageBucket: "advocacy-app-dev.appspot.com",
-messagingSenderId: "7603400618",
-appId: "1:7603400618:web:5c17e9158d727c23abc5d3"
+apiKey:"AIzaSyCvDRJDEeMMItKSly4DK7YMWvofQyG_r44",
+authDomain:"advocacy-app-dev.firebaseapp.com",
+databaseURL:"https://advocacy-app-dev.firebaseio.com",
+projectId:"advocacy-app-dev",
+storageBucket:"advocacy-app-dev.appspot.com",
+messagingSenderId:"7603400618",
+appId:"1:7603400618:web:5c17e9158d727c23abc5d3"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
